@@ -3,6 +3,7 @@ Studying At Czech Technical University In Prague:
     Bachelor Degree
 
 - Python
+- С++
 - SQL, pl/pgSQL
 - Matlab
 
