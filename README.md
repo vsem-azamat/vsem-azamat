@@ -1,7 +1,7 @@
 
 # Hello, I'm Azamat 👋
 
-A student of Mechanical Engineering at Czech Technical University in Prague. I'm interested in work with data, programming, and math. I'm currently working on my bachelor's thesis about the application of Artificial Intelligence in PID control.
+A student of Mechanical Engineering at Czech Technical University in Prague. I'm interested in work with data, programming, and math.
 
 ## Education
 ### 2020 - now
