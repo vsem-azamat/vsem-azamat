@@ -1,16 +1,16 @@
 # Hey, I'm Azamat 👋
 
-I'm a Python developer with a passion for problem-solving and hands-on experience in Machine Learning, Data Engineering, and exploring new technologies. I work with data pipelines, ETL processes, data analysis, and actively engage in ML, Web development (JS/TS/React), and DevOps, gaining experience in diverse roles typical for smaller companies.
+Python engineer working with **data pipelines, machine learning, and ML infrastructure**.  
+I enjoy building practical systems — from data collection and ETL to model training and inference APIs.
 
-🎓 **Education:** 
+Mostly Python, ML/CV, databases, and a bit of backend & DevOps.
 
-Czech Technical University in Prague.  
-Bachelor's degree in Mechanical Engineering 
+🎓 **Education:**  
+Czech Technical University in Prague — Mechanical Engineering
 
 🏋️ **Hobbies:**  
-Sports, reading, and enjoying life away from screens.
+Sports, ~~running~~ networking, touching grass, and time away from screens.
 
-## 🌐 Connect with me
-
+## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/vsem-azamat/)
 - [Telegram](https://t.me/vsem_azamat)
