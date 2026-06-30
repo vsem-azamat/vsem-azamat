@@ -1,9 +1,9 @@
 # Hey, I'm Azamat 👋
 
-Python engineer working with **data pipelines, machine learning, and ML infrastructure**.  
-I enjoy building practical systems — from data collection and ETL to model training and inference APIs.
+Software engineer working across **web and AI**.  
+I build products end to end — backend, integrations, ML pipelines, and agents — turning ideas into something people can actually use.
 
-Mostly Python, ML/CV, databases, and a bit of backend & DevOps.
+Mostly Python & web, ML/CV, LLM agents, databases, and a bit of DevOps.
 
 🎓 **Education:**  
 Czech Technical University in Prague — Mechanical Engineering
@@ -12,5 +12,6 @@ Czech Technical University in Prague — Mechanical Engineering
 Sports, ~~running~~ networking, touching grass, and time away from screens.
 
 ## 🌐 Connect
+- [Website](https://azamat.io)
 - [LinkedIn](https://www.linkedin.com/in/vsem-azamat/)
 - [Telegram](https://t.me/vsem_azamat)
